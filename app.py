@@ -32,5 +32,5 @@ if st.button("Predict type of Iris"):
 st.text('')
 st.text('')
 st.markdown(
-    '`Create by` [Kevin-1001](https://github.com/Kevin-1001/Kevin-1001.md) | \
+    '`Create by` [Kevin-1001](https://github.com/Kevin-1001/Kevin-1001) | \
          `Code:` [GitHub](https://github.com/Kevin-1001/Deployment-Repo/blob/main/app.py)')
