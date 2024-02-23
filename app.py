@@ -9,7 +9,7 @@ st.markdown('Toy model to play to classify iris flowers into \
      (setosa, versicolor, virginica) based on their sepal/petal \
     and length/width.')
 
-[https://www.google.com/url?sa=i&url=https%3A%2F%2Froadsendnaturalist.com%2F2020%2F05%2F04%2Fflower-parts-the-iris-have-it%2F&psig=AOvVaw3Vc_mA3fcDescvhbGs_cj1&ust=1708767722119000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOCkwof1v4QDFQAAAAAdAAAAABAT]
+[www.google.com/url?sa=i&url=https%3A%2F%2Froadsendnaturalist.com%2F2020%2F05%2F04%2Fflower-parts-the-iris-have-it%2F&psig=AOvVaw3Vc_mA3fcDescvhbGs_cj1&ust=1708767722119000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOCkwof1v4QDFQAAAAAdAAAAABAT]
 
 st.header("Plant Features")
 col1, col2 = st.columns(2)
